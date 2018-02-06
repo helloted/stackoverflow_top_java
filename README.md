@@ -6,6 +6,8 @@ stackoverflow上python标签Votes数排名靠前的部分问题整理
 
 2. [Java中是“值传递”还是“引用传递”？](https://github.com/helloted/stackoverflow_top_java/blob/master/content/is-java-pass-by-reference-or-pass-by-value.md)
 
+3. [HashMap和Hashtable区别？](https://github.com/helloted/stackoverflow_top_java/blob/master/content/differences-between-hashmap-and-hashtable.md)
+
    ​
 
 
