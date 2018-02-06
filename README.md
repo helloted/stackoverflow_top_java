@@ -8,6 +8,8 @@ stackoverflow上python标签Votes数排名靠前的部分问题整理
 
 3. [HashMap和Hashtable区别？](https://github.com/helloted/stackoverflow_top_java/blob/master/content/differences-between-hashmap-and-hashtable.md)
 
+4. [什么是synchronized？](https://github.com/helloted/stackoverflow_top_java/blob/master/content/what-does-synchronized-mean.md)
+
    ​
 
 
